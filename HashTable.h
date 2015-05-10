@@ -1,5 +1,5 @@
 /*********************************************************************
-  Author:        Dana Vrajitoru, IUSB, CS
+  Author:        Chad Parnin
   Class:         C243 Data Structures
   File name:     HashTable.h
   Last updated:  October 1, 2014
